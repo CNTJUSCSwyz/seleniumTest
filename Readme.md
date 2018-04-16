@@ -30,7 +30,16 @@ Useage:
 
 ![-w](./image/w.png)
 
+## 2.0版本
+
+### output
+
+![out](./image/o.png)
+
 ## Q&A
 
-`Q: Why can't I run this py?`
-`A: U need install selenium and ChromeDriver first.Use pip plz`
+>`Q: Why can't I run this py?`
+>`A: U need install selenium and ChromeDriver first.Use pip plz,and download ChromeDiver to the path where you Chrome is.`
+
+>`Q:How can I get more information about Selenium Test in this project?`
+>`A:Well,I will perform this founction in version 3.0 and you can download the autotest sample with a .html file.`
